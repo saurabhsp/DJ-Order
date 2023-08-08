@@ -15,6 +15,6 @@ How to run the Online DJ Booking  for an event Project
 7.Run the script http://localhost/DJ%20Order/odms/index.php
 
 Admin Credential
-
-Username: djsaurabh
+Saurabh Pakhale
+Username: admin
 Password: 1234
